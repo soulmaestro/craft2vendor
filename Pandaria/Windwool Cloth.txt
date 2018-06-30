@@ -1,0 +1,6 @@
+Windwool cloth (20x) -> Bolt of windwool cloth (4x) -> Crafted Dreadfull Gladiator's cloak or Prowess
+
+max price cloth: 63s 63c
+max price bolts: 3g 18s 18c
+
+vendor price: 12g 72s 74c
