@@ -1,0 +1,3 @@
+Stonehide Leather (12x) -> R3: Warhide Schoulderguard
+max price leather: 2g 36s 48c   (3g19s35c)
+vendor price: 28g 37s 78c - proc: 38g 32s 24c
