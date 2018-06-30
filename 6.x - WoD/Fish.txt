@@ -1,0 +1,19 @@
+this is a list as crafted food all have a value of 12s50c each.
+
+Jawless Skulker flesh (10x) -> Skulker Chowder (7-8x)
+Fire Ammonite Tentacle (10x) -> Fiery Calamari (7-8x)
+Fat Sleeper Flesh (10x) -> Fat Sleeper Cakes (7-8x)
+Blind Lake Sturgeon Flesh (10x) -> Sturgeon Stew (7-8x)
+Abyssal gulper Eel Flesh (10x) -> Grilled Guper (7-8x)
+Sea Scorpion Segment (10x) -> Steamed Scorpion (7-8x)
+
+
+5x small fish give 5x flesh
+5x normal fish give 10x flesh
+5x enormous fish give 20x flesh.
+
+max prices on the fish:
+enormous fish : 35s
+normal fish:    17s 50c
+small fish + flesh: 8s 75c
+

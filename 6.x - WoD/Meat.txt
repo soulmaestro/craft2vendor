@@ -1,0 +1,11 @@
+this is a list as crafted food all have a value of 12s50c each.
+
+Raw Clefthoof Meat (5x) -> clefthoof Sausages (7-8x)
+Raw Boar Meat (5x) -> Blackrock Ham (7-8x)
+Raw Riverbeast Meat (5) -> Braised Riverbeast (7-8x)
+Raw Elekk Meat (5x) -> Hearty Elekk Steak (7-8x)
+Raw Talbuk Meat (5x) -> Pan-Seared Talbuk (7-8x)
+Rylak Egg (5x) -> Rylak Crepes (7-8x)
+
+Max prices for the meat and eggs:
+17s 50c
