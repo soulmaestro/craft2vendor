@@ -1,0 +1,15 @@
+5x Alchemical Catalyst + 1x True Iron Ore -> 1x Draenic Philosopher's Stone
+
+vendor price: 21g 22s 62c
+
+
+Alchemical Catalyst has several ways to be crafted:
+Daily CD on chars with alchemy:
+at profession level 700 or more 20x frostweed + 10 blackrock ore = 20x Alchemical Catalyst.
+
+Workorders in the Alchemy lab building takes 5x frostweed and gives 4x Alchemical Catalyst.
+(with a lvl 100 follower assigned to the building)
+
+result:
+workorders: 1x Alchemical Catalyst = 80% AvgBuy(Frostweed)
+daily cd: 1 alchemical catalyst = 100% AvgBuy(Frostweed) + 50% AvgBuy(blackrock ore)
