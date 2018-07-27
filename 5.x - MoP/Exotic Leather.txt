@@ -1,4 +1,3 @@
-Exotic Leather (10x) -> Misthide Leather
+Exotic Leather (10x) -> Misthide Leggins
 max price leather: 62s 29c
-vendor price: 6g 22s 97c
-Can proc into rare quality vendoring for higher price
+vendor price: 6g 22s 97c  - proc: 8g 23s 01c
