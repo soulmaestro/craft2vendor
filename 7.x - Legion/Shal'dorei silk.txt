@@ -1,4 +1,5 @@
 Shal'dorei Silk (16x) -> R3: Silkweave Pantaloons
+
 Max price Shal'dorei silk: 2g 43s 66c
 vendor price: 40g 48s 68c
 each craft also needs 2x Catgut (50s/each) and 1x spritehorn (50s/each)

@@ -1,13 +1,6 @@
 Stormscale (12x) -> R3: Battlebound spaulders
+
 max price stormscale: 2g 32s 92c    (3g14s54c)
 vendor price: 27g 95s 04c - proc: 37g 74s 51c
 
-
-crafts and procs:
-20180630-0913: 26/136
-20180630-0922: 21/136
-20180930-0937: 10/136
-20180630-0943: 21/136 : 4006g 94s 31c
-20180930-0950: 22/136 : 4016g 73s 78c
-20180630-0957: 22/137 : 4044g 68s 82c
-20180630-1001: 14/55  : 1674g 36s 78c
+expected proc rate: 15%

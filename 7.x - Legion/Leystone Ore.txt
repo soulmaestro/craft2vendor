@@ -1,0 +1,6 @@
+Leystone Ore(12x) -> R3: Leystone Pauldrons
+
+Max price Leystone Ore: 2g 27s 24c
+vendor price: 27g 26s 94c - proc : <unknown> 
+
+expected proc rate: 15%
