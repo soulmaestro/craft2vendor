@@ -1,6 +1,6 @@
 5x Alchemical Catalyst + 1x True Iron Ore -> 1x Draenic Philosopher's Stone
 
-vendor price: 21g 22s 62c
+vendor price: 22g 69s 35c
 
 
 Alchemical Catalyst has several ways to be crafted:
